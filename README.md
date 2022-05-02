@@ -1,4 +1,4 @@
-# Web-Skills-with-Shikmamaru(3)
+# Web-Skills(3)
 ![Shikamaru](https://github.com/whitebird1016/Web-Skills-with-Shikmamaru/blob/main/1_HTGSqvOc52yfMwyLhCMjVA.jpeg)
 <h2>Boolean Skills</h2>
 <h3>1: Short-circuit operator</h3>
